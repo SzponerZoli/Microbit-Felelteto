@@ -1,6 +1,6 @@
 input.onButtonPressed(Button.A, function () {
-    basic.showNumber(kovetkezo)
     kovetkezo += 1
+    basic.showNumber(kovetkezo)
 })
 input.onButtonPressed(Button.B, function () {
     if (kovetkezo == _2 + _1) {
