@@ -2,14 +2,12 @@
 
 
 ## Manual
-
 * Watch the math problem
 * Choose number with **A** button
 * Send The number with **B** button
 
 
 ## Open in MakeCode
-
 * Open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * Click on **Import**
 * Click on **Import URL**
