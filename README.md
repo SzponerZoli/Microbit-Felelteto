@@ -4,7 +4,7 @@
 ## Manual
 
 * Choose language (Currently English and Hungarian is supported)
-* Watch the math mroblem
+* Watch the math problem
 * Choose number with **A** button
 * Send number with **B** button
 
