@@ -5,7 +5,7 @@
 
 * Watch the math problem
 * Choose number with **A** button
-* Tilt left to Hungarian (Magyar), Tilt left to English
+* Send The number with **B** button
 
 
 ## Open in MakeCode
@@ -13,4 +13,4 @@
 * Open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * Click on **Import**
 * Click on **Import URL**
-* Paste **https://github.com/g30egzo/Microbit-Felelteto** and click Go Ahead!
+* Paste **https://github.com/SzponerZoli/Microbit-Felelteto** and click Go Ahead!
