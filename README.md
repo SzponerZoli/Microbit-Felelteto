@@ -11,4 +11,4 @@
 * Open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * Click on **Import**
 * Click on **Import URL**
-* Paste **https://github.com/SzponerZoli/Microbit-Felelteto** and click Go Ahead!
+* Paste **https://github.com/SzponerZoli/Microbit-Felelteto** and click **Go Ahead!**
