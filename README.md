@@ -3,10 +3,9 @@
 
 ## Manual
 
-* Choose language (Currently English and Hungarian is supported)
 * Watch the math problem
 * Choose number with **A** button
-* Send number with **B** button
+* Tilt left to Hungarian (Magyar), Tilt left to English
 
 
 ## Open in MakeCode
