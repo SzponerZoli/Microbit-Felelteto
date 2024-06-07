@@ -4,8 +4,25 @@ input.onButtonPressed(Button.A, function () {
 })
 input.onButtonPressed(Button.B, function () {
     if (kovetkezo == _2 + _1) {
+        basic.showLeds(`
+            . . . . .
+            . . . . #
+            . . . # .
+            # . # . .
+            . # . . .
+            `)
         basic.pause(2000)
-        basic.showString(" UGYES VAGY!")
+        control.reset()
+    } else {
+        basic.showLeds(`
+            # . . . #
+            . # . # .
+            . . # . .
+            . # . # .
+            # . . . #
+            `)
+        basic.pause(2000)
+        control.reset()
     }
 })
 let kovetkezo = 0
